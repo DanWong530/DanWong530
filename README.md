@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Daniel 👋  
 
-<!--
-**DanWong530/DanWong530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science** | 🛠️ **Aspiring Software Engineer** | 🎷 **Musician**
 
-Here are some ideas to get you started:
+I’m a second-year CS student at Northeastern University, passionate about **software engineering and web development**. 
+I enjoy building interactive projects that combine creativity and code — from music applications to data-driven projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills  
+- **Programming Languages**: Java, Python, JavaScript, C, Assembly  
+- **Web**: React, HTML, CSS, Node.js  
+- **Data Science**: NumPy, Pandas, Beautiful Soup  
+- **Tools & IDEs**: Git/GitHub, VSCode, PyCharm, IntelliJ, Eclipse, Google Colab  
+
+## 🚀 Projects  
+- 🎵 **[Music Dictation Web App](https://github.com/DanWong530/music-dictation-quiz)** — React + VexFlow app for practicing music dictation.  
+- 🧩 **[Connections Word Puzzle](https://github.com/DanWong530/connections-puzzle)** — Java-based word game modeled after The New York Times Connections puzzle.
+
+## 🌱 Currently Learning  
+- Full-stack development (React + Node.js)  
+- Computer & Operating Systems
+- Foundations of Data Science  
+
+## 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/daniel-wong-015541337/)  
+- [Email](danwong530@gmail.com)  
